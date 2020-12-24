@@ -1,18 +1,13 @@
 # usadalab.com
 
-## Setup
+## Getting started
 
 ```bash
 $ gem install bundler
 $ bundle install --path vendor/bundle
-```
-
-## Getting started
-
-```bash
 $ bundle exec jekyll serve
 ```
 
-## Resource
+## Reference
 
 - [Dependency versions](https://pages.github.com/versions/)
