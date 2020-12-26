@@ -1,4 +1,3 @@
-source: [_site]
 markdown: kramdown
 
 kramdown:
