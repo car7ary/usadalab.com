@@ -13,5 +13,5 @@
     - True Ending: 14:26
     - Normal Ending: -
   - Extra
-    - True Ending: -
+    - True Ending: 17:29
     - Normal Ending: -
