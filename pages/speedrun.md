@@ -1,3 +1,8 @@
+---
+layout: default
+title: Speedrun
+---
+
 # Speedrun
 
 - Celeste

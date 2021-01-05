@@ -3,6 +3,7 @@ layout: default
 title: Welcome
 ---
 
-# usadalab.com
-
-Hello, World
+- [contact](pages/contacts.html)
+- [event](pages/event.html)
+- [speedrun](pages/speedrun.html)
+- [youtube](pages/youtube.html)

@@ -1,3 +1,8 @@
+---
+layout: default
+title: Contacts
+---
+
 # Contacts
 
 - Discord: kn#6961
