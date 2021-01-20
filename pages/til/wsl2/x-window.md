@@ -21,3 +21,11 @@ VcXsrv Windows X Server
    ```bash
    $ exec $SHELL -l
    ```
+
+```bash
+sudo apt install git build-essential libssl-dev libreadline-dev zlib1g-dev x11-apps x11-utils x11-xserver-utils libsqlite3-dev nodejs fonts-ipafont libxml2-dev libxslt1-dev
+```
+
+```bash
+xeyes &
+```
