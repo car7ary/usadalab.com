@@ -26,6 +26,7 @@ $ ssh -T github # github疎通確認
 $ git clone github:car7ary/.dotfiles.git ~/.dotfiles
 $ cd ~/.dotfiles
 $ rcup # Dotfilesのシンボリックリンク作成
+$ ./setup.sh
 ```
 
 ## 2. WSL2設定
