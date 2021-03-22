@@ -3,8 +3,9 @@ layout: default
 title: Speedrun
 ---
 
-# Speedrun
+# Speedrun 記録リスト
 
+インターネット上のランキングサイト等に投稿していない記録も含みます。
 
 ## Celeste
 
